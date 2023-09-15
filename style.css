@@ -1,0 +1,9 @@
+html{
+    box-sizing:border-box;
+}
+
+body{
+    margin:10px;
+    min-height:100vh;
+    background-color: seagreen;
+}
